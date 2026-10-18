@@ -11,7 +11,8 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
-
+"""Asks the user for the input of the Source_IP, failed logins and the total attempts, performs calculations
+with the numbers and gets the status of the percentage. Prints a table containing the data as an output"""
 over_limit = 0
 while True:
     Source_IP = input("Enter the Source IP (or 'quit' to exit): ")      

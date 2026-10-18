@@ -11,6 +11,8 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
+"""Asks the user for input of dataset name with rows loaded and expected and calculates
+ the difference and percentage of the 2 numbers. Prints a uniform table with the data"""
 
 # ==================================================================== INPUT
 # 1. Ask the user for your three values.
